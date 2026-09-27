@@ -1,3 +1,5 @@
+## 🚀 Live Demo
+Try it here: https://movie-graph-explorer-6ufrejc8vsbzyexmquwqwv.streamlit.app/
 # 🎬 Movie Universe Graph Explorer
 
 A project combining **Data Structures & Algorithms** (graphs, BFS, Dijkstra) with **Machine Learning** (TF-IDF + cosine similarity) to explore how actors and movies are connected — like the "Six Degrees of Kevin Bacon" game, plus a content-based movie recommender.
